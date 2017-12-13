@@ -1,0 +1,17 @@
+commit a0d7fcbe3bc28e123eaac3704200d99130e9ceac
+Author: Lorfe <lorfe-blade@hotmail.com>
+Date:   Wed Dec 13 18:10:55 2017 -0400
+
+    Se agrego propety al modulo de carnet
+
+commit a4a34b255d8b0863a9cc061047c87d50d53077d4
+Author: Lorfe <lorfe-blade@hotmail.com>
+Date:   Wed Dec 13 18:05:26 2017 -0400
+
+    Le hicimos una propety la clase carnet
+
+commit 43ad4e4e45d00d23230a4d9da48136aa934761df
+Author: Lorfe <lorfe-blade@hotmail.com>
+Date:   Wed Dec 13 17:58:14 2017 -0400
+
+    Iniciando la subida del proyecto biblioteca
