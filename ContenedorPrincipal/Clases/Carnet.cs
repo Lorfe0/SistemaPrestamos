@@ -8,8 +8,8 @@ namespace ContenedorPrincipal.Clases
 {
     class Carnet
     {
-      
-     
+
+        public string nombrePersona { get; set; }
 
     }
 }

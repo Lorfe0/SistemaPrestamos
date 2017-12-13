@@ -44,3 +44,6 @@ C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal
 C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.exe
 C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.pdb
 C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csprojResolveAssemblyReference.cache
+D:\programacion\Programacion\Visual C#\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe.config
+D:\programacion\Programacion\Visual C#\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.exe
+D:\programacion\Programacion\Visual C#\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.pdb
