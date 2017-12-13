@@ -1,0 +1,46 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Bibliotecario\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.ContenedorPrincipal.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe.config
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.exe
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.pdb
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.pdb
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.ContenedorPrincipal.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Properties.Resources.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.RegistrarPersona.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csproj.GenerateResource.Cache
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Login.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Bibliotecario.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Beneficiario.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Carnet.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.RegistrarLibro.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Prestamos.resources
+C:\Users\lorfer\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Areas.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe.config
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.exe
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\ContenedorPrincipal.pdb
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Areas.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.bene.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Bibliotecario.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Carnet.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.ContenedorPrincipal.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Login.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Prestamos.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.Properties.Resources.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.RegistrarLibro.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.RegistrarPersona.resources
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.exe
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.pdb
+C:\Users\HP\Desktop\biblioteca\ContenedorPrincipal\obj\Debug\ContenedorPrincipal.csprojResolveAssemblyReference.cache

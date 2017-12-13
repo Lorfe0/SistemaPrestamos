@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\bin\Debug\Bibliotecario.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\bin\Debug\Bibliotecario.exe
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\bin\Debug\Bibliotecario.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.exe
+c:\users\hp\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.contenedorPrincipal.resources
+C:\Users\HP\documents\visual studio 2015\Projects\Bibliotecario\Bibliotecario\obj\Debug\Bibliotecario.Login.resources
