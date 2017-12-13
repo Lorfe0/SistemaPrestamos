@@ -10,6 +10,7 @@ namespace ContenedorPrincipal.Clases
     {
 
         public string nombrePersona { get; set; }
+        public DateTime fechaExpiracion { get; set; }
 
     }
 }
