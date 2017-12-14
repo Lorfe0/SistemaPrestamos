@@ -20,7 +20,7 @@ namespace ContenedorPrincipal
         public Beneficiario()
         {
             InitializeComponent();
-            CargarDatos();
+            CargarDatos(); 
         }
 
         private void Bibliotecario_Load(object sender, EventArgs e)
