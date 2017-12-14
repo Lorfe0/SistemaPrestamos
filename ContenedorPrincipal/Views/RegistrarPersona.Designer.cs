@@ -34,7 +34,6 @@
             this.rbDni = new System.Windows.Forms.RadioButton();
             this.rbNombre = new System.Windows.Forms.RadioButton();
             this.txtBuscar = new System.Windows.Forms.TextBox();
-            this.rbApellido = new System.Windows.Forms.RadioButton();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
@@ -110,16 +109,8 @@
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // rbApellido
-            // 
-            resources.ApplyResources(this.rbApellido, "rbApellido");
-            this.rbApellido.Name = "rbApellido";
-            this.rbApellido.TabStop = true;
-            this.rbApellido.UseVisualStyleBackColor = true;
-            // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.rbApellido);
             this.groupBox4.Controls.Add(this.txtBuscar);
             this.groupBox4.Controls.Add(this.rbNombre);
             this.groupBox4.Controls.Add(this.btnBuscar);
@@ -380,7 +371,6 @@
         private System.Windows.Forms.RadioButton rbDni;
         private System.Windows.Forms.RadioButton rbNombre;
         private System.Windows.Forms.TextBox txtBuscar;
-        private System.Windows.Forms.RadioButton rbApellido;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.GroupBox groupBox7;
